@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 import math
 from utils import *
 
-__all__ = ['UNext']
+__all__ = ['RFENet']
 
 import timm
 from timm.models.layers import DropPath, to_2tuple, trunc_normal_
