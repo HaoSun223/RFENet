@@ -1,4 +1,4 @@
-# RFENet (UNeXt-based) for Retinal Lesion Segmentation
+# RFENet for Retinal Lesion Segmentation
 
 This repository provides the official PyTorch implementation of **RFENet**, a lightweight segmentation framework for CNV (OCT) and CNP (FFA) lesion segmentation.  
 For confidentiality reasons, the clinical datasets are not distributed in this repository.
